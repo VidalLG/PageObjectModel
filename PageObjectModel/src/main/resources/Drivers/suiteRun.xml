@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="COGMENTO">
+    <test name="COGRMENTO - TEST CASES">
+        
+        <classes>
+            <class name = "testcases.LoginPageTest"></class>
+            <class name="testcases.HomePageTest"></class>
+            <class name="testcases.ContactsPageTest"></class>
+            
+            
+        </classes>
+    </test>
+</suite>
